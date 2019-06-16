@@ -13,7 +13,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <BaseDirectory>.</BaseDirectory>
   </PropertyGroup>
@@ -54,7 +54,12 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\FollowPlayer.cs" />
+     <Compile Include="Assets\GameManager.cs" />
+     <Compile Include="Assets\LoadLevel.cs" />
+     <Compile Include="Assets\OpenExit.cs" />
      <Compile Include="Assets\PlayerMovement2D.cs" />
+     <Compile Include="Assets\RestartGame.cs" />
+     <Compile Include="Assets\Victory.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/Clayton/MyFirstGame/DungeonCrawler/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
