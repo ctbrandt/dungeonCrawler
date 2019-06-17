@@ -53,13 +53,17 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\FollowPlayer.cs" />
-     <Compile Include="Assets\GameManager.cs" />
-     <Compile Include="Assets\LoadLevel.cs" />
-     <Compile Include="Assets\OpenExit.cs" />
-     <Compile Include="Assets\PlayerMovement2D.cs" />
-     <Compile Include="Assets\RestartGame.cs" />
-     <Compile Include="Assets\Victory.cs" />
+     <Compile Include="Assets\Scripts\Dialogue.cs" />
+     <Compile Include="Assets\Scripts\DialogueManager.cs" />
+     <Compile Include="Assets\Scripts\DialogueTrigger.cs" />
+     <Compile Include="Assets\Scripts\FollowPlayer.cs" />
+     <Compile Include="Assets\Scripts\GameManager.cs" />
+     <Compile Include="Assets\Scripts\LoadLevel.cs" />
+     <Compile Include="Assets\Scripts\OpenExit.cs" />
+     <Compile Include="Assets\Scripts\PlayerMovement2D.cs" />
+     <Compile Include="Assets\Scripts\RestartGame.cs" />
+     <Compile Include="Assets\Scripts\Victory.cs" />
+     <None Include="Assets\NarratorDialogue\Level1Dialogue.txt" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/Clayton/MyFirstGame/DungeonCrawler/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>

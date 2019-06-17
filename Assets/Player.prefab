@@ -148,6 +148,7 @@ MonoBehaviour:
   sr: {fileID: 1129662856132471580}
   flashlight: {fileID: 1129662856474940053}
   movementSpeed: 4
+  enableMovement: 0
 --- !u!1 &1129662856474940051
 GameObject:
   m_ObjectHideFlags: 0
