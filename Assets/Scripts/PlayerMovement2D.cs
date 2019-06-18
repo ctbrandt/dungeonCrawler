@@ -14,6 +14,7 @@ public class PlayerMovement2D : MonoBehaviour
     public bool enableMovement;
 
     void Update() {
+        BatteryLifeUpdate batteryLife = this.GetComponent<BatteryLifeUpdate>();
         horizontalMove = Input.GetAxisRaw("Horizontal");
         verticalMove = Input.GetAxisRaw("Vertical");
 
@@ -23,8 +24,9 @@ public class PlayerMovement2D : MonoBehaviour
             sr.flipX = false;
         }
 
-        if( Input.GetButtonDown("Fire1") ){
+        if( Input.GetButtonDown("Fire1") && batteryLife.isFlashlightAvailable){
             flashlight.enabled = !flashlight.enabled;
+            batteryLife.enabled = flashlight.enabled;
         }
     }
 
