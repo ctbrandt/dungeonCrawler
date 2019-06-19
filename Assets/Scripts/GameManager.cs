@@ -25,4 +25,8 @@ public class GameManager : MonoBehaviour
     public void Restart() {
         SceneManager.LoadScene(1);
     }
+
+    public void Quit() {
+        Application.Quit();
+    }
 }

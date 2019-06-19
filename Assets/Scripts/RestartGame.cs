@@ -6,4 +6,8 @@ public class RestartGame : MonoBehaviour
     public void Restart(){
         FindObjectOfType<GameManager>().Restart();
     }
+
+    public void QuitGame() {
+        Application.Quit();
+    }
 }
