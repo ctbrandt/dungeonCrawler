@@ -6,20 +6,25 @@ public class OpenExit : MonoBehaviour
     public Sprite openExit, closedExit;
     public BoxCollider2D triggerBox;
     bool canOpenDoor;
+    public int goldKeyReqs = 1;
+    public InventoryManager inventoryManager;
     // Update is called once per frame
     void Update() {
         if(Input.GetButtonDown("Fire2") && canOpenDoor) {
-            Debug.Log("Open door action");
             sr.sprite = openExit;
             triggerBox.enabled = false;
+            inventoryManager.RemoveItem("key");
         }
     }
 
     public void OnTriggerEnter2D(){
-        canOpenDoor = true;
+        if(goldKeyReqs == 0 || inventoryManager.HasDoorReqs(goldKeyReqs)) {
+            canOpenDoor = true;
+        }
+
     }
 
-    public void OnTriggerExit2D(){
+    public void OnTriggerExit2D() {
         canOpenDoor = false;
     }
 }

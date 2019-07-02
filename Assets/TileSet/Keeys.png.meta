@@ -1,0 +1,1471 @@
+fileFormatVersion: 2
+guid: 229a0e985d7677e43aa1d1ae344da37b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4469248467002843265
+    second: Keeys_0
+  - first:
+      213: -2469939016228051114
+    second: Keeys_1
+  - first:
+      213: -1454023442981833573
+    second: Keeys_2
+  - first:
+      213: -3429636215536767280
+    second: Keeys_3
+  - first:
+      213: 2760792779946778235
+    second: Keeys_4
+  - first:
+      213: -3823804683689517013
+    second: Keeys_5
+  - first:
+      213: -16136671166694419
+    second: Keeys_6
+  - first:
+      213: -6060391929422350795
+    second: Keeys_7
+  - first:
+      213: 5564325959501811689
+    second: Keeys_8
+  - first:
+      213: 7523717784521219401
+    second: Keeys_9
+  - first:
+      213: -1308279930927166416
+    second: Keeys_10
+  - first:
+      213: -7839463749304952932
+    second: Keeys_11
+  - first:
+      213: 3467794136932852216
+    second: Keeys_12
+  - first:
+      213: -5461312716156404732
+    second: Keeys_13
+  - first:
+      213: 45579744524648124
+    second: Keeys_14
+  - first:
+      213: 17328445911061673
+    second: Keeys_15
+  - first:
+      213: -4961931327762818734
+    second: Keeys_16
+  - first:
+      213: 1676249683310928944
+    second: Keeys_17
+  - first:
+      213: -2415194191573666617
+    second: Keeys_18
+  - first:
+      213: -7426935729001919321
+    second: Keeys_19
+  - first:
+      213: 6186689111012657768
+    second: Keeys_20
+  - first:
+      213: -7193550762578768673
+    second: Keeys_21
+  - first:
+      213: -7543049412690983976
+    second: Keeys_22
+  - first:
+      213: -7123436793024140543
+    second: Keeys_23
+  - first:
+      213: -2428964152358116770
+    second: Keeys_24
+  - first:
+      213: -3282800512646475127
+    second: Keeys_25
+  - first:
+      213: -8148225376644542628
+    second: Keeys_26
+  - first:
+      213: -6543975607399003633
+    second: Keeys_27
+  - first:
+      213: -3938400015391100319
+    second: Keeys_28
+  - first:
+      213: 308845512178266063
+    second: Keeys_29
+  - first:
+      213: 6191195126210459170
+    second: Keeys_30
+  - first:
+      213: 8593242874775766892
+    second: Keeys_31
+  - first:
+      213: -4774525999634592961
+    second: Keeys_32
+  - first:
+      213: -4933314037245584407
+    second: Keeys_33
+  - first:
+      213: -5245854466327653597
+    second: Keeys_34
+  - first:
+      213: -2001198627384159317
+    second: Keeys_35
+  - first:
+      213: 5115409928048310273
+    second: Keeys_36
+  - first:
+      213: 3939163750249423486
+    second: Keeys_37
+  - first:
+      213: 7232337590378047960
+    second: Keeys_38
+  - first:
+      213: 4890848607651413494
+    second: Keeys_39
+  - first:
+      213: 6075449466408032494
+    second: Keeys_40
+  - first:
+      213: -2635925117292639293
+    second: Keeys_41
+  - first:
+      213: -1626056100349795401
+    second: Keeys_42
+  - first:
+      213: 543267045452408801
+    second: Keeys_43
+  - first:
+      213: -5843994980991701708
+    second: Keeys_44
+  - first:
+      213: 6915992545600376340
+    second: Keeys_45
+  - first:
+      213: 1614109204433698531
+    second: Keeys_46
+  - first:
+      213: 2575491587352233703
+    second: Keeys_47
+  - first:
+      213: -4667815700454339864
+    second: Keeys_48
+  - first:
+      213: -2320204886252979087
+    second: Keeys_49
+  - first:
+      213: -381243482554285717
+    second: Keeys_50
+  - first:
+      213: -8471559156812784766
+    second: Keeys_51
+  - first:
+      213: 5202569077524141681
+    second: Keeys_52
+  - first:
+      213: -3523823340943193808
+    second: Keeys_53
+  - first:
+      213: -6395975276651275501
+    second: Keeys_54
+  - first:
+      213: -5068731237551414234
+    second: Keeys_55
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Keeys_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 164
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cb5a1b3900dda49beea4b43ec94b55
+      internalID: -4469248467002843265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 164
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755340d1b7987874680ec91d591f954b
+      internalID: -2469939016228051114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 164
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723917372ee7f7e45b431c66607a3592
+      internalID: -1454023442981833573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 167
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fedbbef2bb45b74084bf3304e2ad327
+      internalID: -3429636215536767280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 123
+        width: 26
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d65ab7374b784e45af334df7c94fede
+      internalID: 2760792779946778235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_5
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 123
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91369f52b453cc541abe2909de76dfbe
+      internalID: -3823804683689517013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_6
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 164
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3824831df71b7ac408ca2461f7e077d8
+      internalID: -16136671166694419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_7
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 164
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252c20b13a01da34ea6551ebc0fea9e4
+      internalID: -6060391929422350795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_8
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 164
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793f74ec901694a4392a306b29dd71d0
+      internalID: 5564325959501811689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_9
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 164
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a705c542f8d13a5458357a9a99d03bbc
+      internalID: 7523717784521219401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_10
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 164
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da328c75fe9c7424eb473a589b4bf4d1
+      internalID: -1308279930927166416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_11
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 164
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81282df63b843684a90c5ef49454c3cf
+      internalID: -7839463749304952932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 123
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0a051ff9c26ac4cb234188e7ab1b91
+      internalID: 3467794136932852216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_13
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 123
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ff98890201a2848bb2e659989efb85
+      internalID: -5461312716156404732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_14
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 123
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2bd9a172f1af6488d3b183ad7873d1
+      internalID: 45579744524648124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_15
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 123
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0b1de4a7bd08841984775c184ce3fe
+      internalID: 17328445911061673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_16
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 132
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c458ab22c0d6f094c9c3153b2c290be5
+      internalID: -4961931327762818734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_17
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 132
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d1f28f24423e24a8e83108ac9e05c4
+      internalID: 1676249683310928944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_18
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 132
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483d34ee5ea965d4a9cca6b265cf7b61
+      internalID: -2415194191573666617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_19
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 132
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b9a8822da4f7c499ab13e30ae7936b
+      internalID: -7426935729001919321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_20
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 123
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148c8271bbdbc424eb1bac2ea5da6f6f
+      internalID: 6186689111012657768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_21
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 123
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be00fa725d586d42abd4cd0428575ef
+      internalID: -7193550762578768673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a3593ee02ebf44c856127a59f5328c
+      internalID: -7543049412690983976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_23
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 82
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d59a402ff0ade9449f2f0aed6f5a738
+      internalID: -7123436793024140543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_24
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 81
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50abd1668157a140abcb4e15f9a6bd3
+      internalID: -2428964152358116770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_25
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 81
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2f03d507caff947bded609a6a5d114
+      internalID: -3282800512646475127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_26
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 81
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c54b3a904b6df74bb6d0ebe8d1ddd09
+      internalID: -8148225376644542628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_27
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 82
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a1e177a01ea7c46b89a684461b34ab
+      internalID: -6543975607399003633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_28
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 82
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42eed5bd062d134281d3e732ed8eefc
+      internalID: -3938400015391100319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_29
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 82
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d35aceafc83874d88ec884f191186c
+      internalID: 308845512178266063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_30
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 82
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac204b3e98930f45915ac3f12f90ed6
+      internalID: 6191195126210459170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_31
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 90
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09a9f50de3c3734db69839c278815ad
+      internalID: 8593242874775766892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_32
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 91
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34a2ef0eefd366478ba1ef061bcf9a6
+      internalID: -4774525999634592961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_33
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d582711dba601546a1469ed7bc4e533
+      internalID: -4933314037245584407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76a3d246fe6f1d4e8347b166a2c44a4
+      internalID: -5245854466327653597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_35
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 49
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff9e818f2b292144964a9c28e58d98d
+      internalID: -2001198627384159317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_36
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 40
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f54e71fa82cd974abee01216937f268
+      internalID: 5115409928048310273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_37
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 40
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ed52c88ab5a4549b217feaa087ca12
+      internalID: 3939163750249423486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_38
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 40
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0bbb983d5fc9b4e8e8ddc9a7ae9f6a
+      internalID: 7232337590378047960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_39
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 40
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993e653e71fe0e041ae17c9fd7fa72c7
+      internalID: 4890848607651413494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_40
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 40
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f0e36dfbbc3714daef057b2508a893
+      internalID: 6075449466408032494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_41
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 40
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae10980a1602e043b84ba7243316272
+      internalID: -2635925117292639293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_42
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 40
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf7fe2e99220cc43891f1d6d726d8f2
+      internalID: -1626056100349795401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_43
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 41
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff801a64a04813e4989cc3301b4e2588
+      internalID: 543267045452408801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_44
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 41
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940ee535d55203a4cba6e6d241bcada9
+      internalID: -5843994980991701708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_45
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 41
+        width: 29
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da8eca67e12fe244931ec1ef2b75ef6
+      internalID: 6915992545600376340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 67
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95d65361d4049641a9262258cb37e85
+      internalID: 1614109204433698531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_47
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 0
+        width: 67
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3163535f27285c940b76476394263eaa
+      internalID: 2575491587352233703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_48
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 66
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f516fbc9dce2f4680c5820f771197f
+      internalID: -4667815700454339864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_49
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 0
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b052fa3a0ad13d478c91581f53e5126
+      internalID: -2320204886252979087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_50
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 0
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d8dc2a7bbb4fa449e73d3afdd7dfd7
+      internalID: -381243482554285717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_51
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 0
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c673a0ce14dea04ba2341823f255e74
+      internalID: -8471559156812784766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_52
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63a391d855169b4d8a326a39b60d7cb
+      internalID: 5202569077524141681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_53
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 0
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d654af48ba24fb4dbf564c4198a46fe
+      internalID: -3523823340943193808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_54
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 0
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9336aea8c7eab284584b56ceb19127ad
+      internalID: -6395975276651275501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeys_55
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 0
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2bc2bb8c816834d8aad6ba93ef68ad
+      internalID: -5068731237551414234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

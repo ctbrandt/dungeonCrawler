@@ -16,8 +16,7 @@ public class BatteryLifeUpdate : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
-    {
+    void Update() {
         batteryTimer -= Time.deltaTime;
         batteryUIText.text = batteryTimer.ToString("0") + "%";
         if( batteryTimer <= 0 ) {

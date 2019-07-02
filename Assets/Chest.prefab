@@ -139,7 +139,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sr: {fileID: 8505917993995502315}
-  currSprite: {fileID: -3737266746655423200, guid: 57a8731fc0797294aab662bf9e5a3594,
+  openSprite: {fileID: 7049507203628222962, guid: 57a8731fc0797294aab662bf9e5a3594,
     type: 3}
-  nextSprite: {fileID: 7049507203628222962, guid: 57a8731fc0797294aab662bf9e5a3594,
+  closedSprite: {fileID: -3737266746655423200, guid: 57a8731fc0797294aab662bf9e5a3594,
     type: 3}
+  item: 
+  inventory: {fileID: 0}
