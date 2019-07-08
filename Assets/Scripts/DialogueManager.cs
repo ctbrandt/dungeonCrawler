@@ -8,11 +8,12 @@ public class DialogueManager : MonoBehaviour
 {
     Queue<string> sentences;
     public GameObject player;
-    public TextAsset dialogueText;
     public GameObject NarratorUI;
     public Text NarratorText;
     // Start is called before the first frame update
-    void Start() {
+
+    public void StartDialogue(TextAsset dialogueText) {
+        this.gameObject.SetActive(true);
         sentences = new Queue<string>();
         NarratorUI.SetActive(true);
         List<string> dialogue = TextAssetToList(dialogueText);
@@ -20,12 +21,10 @@ public class DialogueManager : MonoBehaviour
         //Disable player movement while Narrator talks
         EnablePlayer(false);
         StartNarrator(dialogue);
-
     }
 
     public void StartNarrator( List<string> dialogue){
         Debug.Log("Starting scene narration");
-
         foreach(string sentence in dialogue) {
             sentences.Enqueue(sentence);
         }
@@ -40,6 +39,7 @@ public class DialogueManager : MonoBehaviour
         }
     }
     public void DisplayNextSentence() {
+        Debug.Log("DisplayNextSentence");
         if( sentences.Count == 0 ) {
             EndNarrator();
         } else {
@@ -59,4 +59,5 @@ public class DialogueManager : MonoBehaviour
     private List<string> TextAssetToList(TextAsset ta) {
         return new List<string>(ta.text.Split('\n'));
     }
+
 }

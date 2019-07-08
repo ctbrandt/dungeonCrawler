@@ -69,6 +69,8 @@
      <Compile Include="Assets\Scripts\Victory.cs" />
      <None Include="Assets\TileSet\Kyrise&apos;s 16x16 RPG Icon Pack - V1.2\read me.txt" />
      <None Include="Assets\NarratorDialogue\Level1Dialogue.txt" />
+     <None Include="Assets\NarratorDialogue\Level2\Level2Dialogue2.txt" />
+     <None Include="Assets\NarratorDialogue\Level2\Level2Dialogue1.txt" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/Clayton/MyFirstGame/DungeonCrawler/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
