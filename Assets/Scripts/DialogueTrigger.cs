@@ -24,7 +24,7 @@ public class DialogueTrigger : MonoBehaviour {
     }
 
     public void Update() {
-        if((enableDialogue && Input.GetButtonDown("Fire2"))) {
+        if(enableDialogue && Input.GetButtonDown("Fire2")) {
             TriggerDialogueManager();
         } 
     }

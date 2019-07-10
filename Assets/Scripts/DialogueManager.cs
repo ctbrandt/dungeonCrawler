@@ -24,7 +24,6 @@ public class DialogueManager : MonoBehaviour
     }
 
     public void StartNarrator( List<string> dialogue){
-        Debug.Log("Starting scene narration");
         foreach(string sentence in dialogue) {
             sentences.Enqueue(sentence);
         }

@@ -10,9 +10,11 @@ public class BatteryLifeUpdate : MonoBehaviour
     public Text batteryUIText;
     public bool isFlashlightAvailable = true;
     public Light flashlight;
-    void Start()
+    void Awake()
     {
-        
+       // DontDestroyOnLoad(transform.gameObject);
+       batteryTimer = StaticUIElements.batteryLife;
+       batteryUIText.text = batteryTimer.ToString("0") + "%";
     }
 
     // Update is called once per frame
@@ -29,5 +31,9 @@ public class BatteryLifeUpdate : MonoBehaviour
 
     IEnumerator delayTimer(){
         yield return new WaitForSeconds(3.0f);
+    }
+
+    void OnDestroy() {
+        StaticUIElements.batteryLife = batteryTimer;
     }
 }

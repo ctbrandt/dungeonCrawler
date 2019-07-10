@@ -66,6 +66,7 @@
      <Compile Include="Assets\Scripts\OpenExit.cs" />
      <Compile Include="Assets\Scripts\PlayerMovement2D.cs" />
      <Compile Include="Assets\Scripts\RestartGame.cs" />
+     <Compile Include="Assets\Scripts\StaticUIElements.cs" />
      <Compile Include="Assets\Scripts\Victory.cs" />
      <None Include="Assets\TileSet\Kyrise&apos;s 16x16 RPG Icon Pack - V1.2\read me.txt" />
      <None Include="Assets\NarratorDialogue\Level1Dialogue.txt" />
